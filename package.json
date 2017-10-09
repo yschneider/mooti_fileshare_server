@@ -1,0 +1,21 @@
+{
+  "name": "moot-webocore-2",
+  "description": "API back end for mooti",
+  "version": "0.0.1",
+  "main": "./server.js",
+  "dependencies": {
+    "assert": "*",
+    "async": "^1.4.2",
+    "body-parser": "*",
+    "errorhandler": "^1.0.2",
+    "express": "*",
+    "express-validator": "^2.3.0",
+    "http": "*",
+    "mongodb": "*",
+    "mysql": "*",
+    "node-uuid": "*",
+    "sodium": "^2.0.1",
+    "winston": "^0.7.3",
+    "ws": "^3.2.0"
+  }
+}
